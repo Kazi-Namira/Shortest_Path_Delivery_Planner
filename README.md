@@ -49,15 +49,15 @@ Before running the project, make sure you set up the **Assets/** and **Code/** f
 
 1. **Setting Up the Assets Folder**:
    - In the root directory of the project, create a folder named `Assets/`.
+     
      [Explore Assets](./Assets)
 
 2. **Setting Up the Code Folder**:
    - The **Code/** folder contains the main program file (`main.cpp`), where the core logic of the project resides.
    - You do **not** need to modify the `main.cpp` file unless you want to customize the logic or add new features.
-      [Explore Code](./Code)
-
      
-   - The **Makefile** is also located in the root directory, pre-configured to handle the compilation of the project.
+      [Explore Code](./Code)
+     
 
 Ensure that the files are named exactly as mentioned to avoid any issues during runtime. Once the assets and code are set up, you can proceed with compiling and running the project as described in the next section.
 
