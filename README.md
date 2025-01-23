@@ -28,3 +28,16 @@
    - The car icon animates along the shortest path, providing a real-time visualization of the route.
 
 ---
+
+## **🔧 Step-by-Step Guide**
+
+### **1. SFML Setup**
+
+Before running the project, you need to set up **SFML** for rendering graphics.
+
+- **Follow this YouTube tutorial** to set up SFML on your machine:  
+  [**SFML Setup Tutorial**](https://youtu.be/PJN5XlAUThU?si=6-oi2c1NhKtcEGdk)  
+
+Make sure to follow the instructions for your specific platform (Windows, macOS, Linux) to correctly install and configure SFML.
+
+---
