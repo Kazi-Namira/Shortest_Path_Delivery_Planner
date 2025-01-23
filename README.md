@@ -112,6 +112,10 @@ Once you have set up the **Assets/** and **Code/** folders correctly, follow the
      - **Edge weights**: Enter the weight for each edge (this typically represents the distance or time between two locations).
      - **Source and destination nodes**: Select the starting and ending locations for the shortest path calculation.
 
+       ![image](https://github.com/user-attachments/assets/22fee51d-0ae5-4fcb-972f-f21a07bfae74)
+       
+
+
 6. **Enjoy the Real-Time Animation**:
    - After entering the required inputs, the program will calculate the shortest path using **Dijkstra's Algorithm** and display the graphical map.
    - The **car icon** will animate along the shortest path from the source to the destination, and the path will be highlighted in **green**.
