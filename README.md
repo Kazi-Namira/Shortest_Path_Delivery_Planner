@@ -41,3 +41,23 @@ Before running the project, you need to set up **SFML** for rendering graphics.
 Make sure to follow the instructions for your specific platform (Windows, macOS, Linux) to correctly install and configure SFML.
 
 ---
+
+
+### **2. Setting Up Assets and Code**
+
+Before running the project, make sure you set up the **Assets/** and **Code/** folders with the necessary image files and code.
+
+1. **Setting Up the Assets Folder**:
+   - In the root directory of the project, create a folder named `Assets/`.
+     [Explore Assets](./Assets)
+
+2. **Setting Up the Code Folder**:
+   - The **Code/** folder contains the main program file (`main.cpp`), where the core logic of the project resides.
+   - You do **not** need to modify the `main.cpp` file unless you want to customize the logic or add new features.
+      [Explore Code](./Code)
+
+     
+   - The **Makefile** is also located in the root directory, pre-configured to handle the compilation of the project.
+
+Ensure that the files are named exactly as mentioned to avoid any issues during runtime. Once the assets and code are set up, you can proceed with compiling and running the project as described in the next section.
+
